@@ -2,7 +2,7 @@
     "code": 200,
     "msg": "success",
     "data": {
-        "tr": 1,
+        "tr": 0,
         "landscape": 0
     }
 }
